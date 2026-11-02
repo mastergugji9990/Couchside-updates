@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.5.apk",
-  "notes": "Update checks use the public GitHub host and follow redirects to the APK."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.6.apk",
+  "notes": "The screen stays on while a movie or a home trailer is playing, and can sleep again when playback pauses."
 }
