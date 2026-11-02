@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.12.apk",
-  "notes": "Continue Watching follows the episode you are on, My List is only favorites you add, and the guide keeps the rail collapsed with row titles on screen."
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.13.apk",
+  "notes": "One Right from the side menu enters the page. Play trailer uses YouTube and falls back to the YouTube app. Long-press menus take focus, and More stays in the Christmas grid."
 }
