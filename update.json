@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.11.apk",
-  "notes": "The next episode starts only after this one actually ends. An Up next card can show in the last 30 seconds, and the 5 second countdown waits for the end."
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.12.apk",
+  "notes": "Continue Watching follows the episode you are on, My List is only favorites you add, and the guide keeps the rail collapsed with row titles on screen."
 }
