@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.7.apk",
-  "notes": "Trailers retry the next YouTube video, rows stay on screen, and blocked provider slates are not played."
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.8.apk",
+  "notes": "Rows glide to a fixed pivot, trailers stay on the backdrop until a frame is showing, Christmas has its own page, and TV themes play when a show is focused."
 }
