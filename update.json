@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.10.apk",
-  "notes": "The next episode is ready before this one ends, with a 5 second Up next card. Shuffle can skip, and a bad stream tries another source."
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.11.apk",
+  "notes": "The next episode starts only after this one actually ends. An Up next card can show in the last 30 seconds, and the 5 second countdown waits for the end."
 }
