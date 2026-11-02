@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.8.apk",
-  "notes": "Rows glide to a fixed pivot, trailers stay on the backdrop until a frame is showing, Christmas has its own page, and TV themes play when a show is focused."
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.9.apk",
+  "notes": "OK opens the focused rail page, the focused row keeps its title under the billboard, and play/pause uses the player bar instead of a stuck label."
 }
