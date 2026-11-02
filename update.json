@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.6.apk",
-  "notes": "The screen stays on while a movie or a home trailer is playing, and can sleep again when playback pauses."
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.7.apk",
+  "notes": "Trailers retry the next YouTube video, rows stay on screen, and blocked provider slates are not played."
 }
