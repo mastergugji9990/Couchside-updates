@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.13.apk",
-  "notes": "One Right from the side menu enters the page. Play trailer uses YouTube and falls back to the YouTube app. Long-press menus take focus, and More stays in the Christmas grid."
+  "versionCode": 15,
+  "versionName": "1.0.14",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.14.apk",
+  "notes": "Home stays on still pictures. Posters and catalog responses are cached, and the rows no longer rebuild the whole screen when focus moves."
 }
