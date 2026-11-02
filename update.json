@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-1.0.14.apk",
-  "notes": "Home stays on still pictures. Posters and catalog responses are cached, and the rows no longer rebuild the whole screen when focus moves."
+  "versionCode": 20,
+  "versionName": "2.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-2.0.0.apk",
+  "notes": "New CouchSide 2.0 look: overlay menu, full-screen hero, wide Continue Watching cards, crash fixes and remote OK fixes."
 }
