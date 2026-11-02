@@ -1,6 +1,1 @@
-{
-  "versionCode": 20,
-  "versionName": "2.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-2.0.0.apk",
-  "notes": "New CouchSide 2.0 look: overlay menu, full-screen hero, wide Continue Watching cards, crash fixes and remote OK fixes."
-}
+{"versionCode":21,"versionName":"2.0.1","apkUrl":"https://raw.githubusercontent.com/mastergugji9990/couchside-updates/main/couchside-2.0.1.apk","notes":"Speed update: lighter focus, smaller images, faster home load."}
